@@ -1,0 +1,9 @@
+.modal {
+  border: 2px black solid;
+  font-size: 3rem;
+  text-align: center;
+  width: 400px;
+  height: 200px;
+  margin: 75px auto 0 auto;
+  padding: 50px;
+}
