@@ -1,4 +1,5 @@
 import React from "react";
+import "./View1.css";
 
 export default function View1(props) {
   return (
